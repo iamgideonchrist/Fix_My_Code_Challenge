@@ -1,4 +1,4 @@
-# React Blog README
+# React Blog
 
 Simple React Blog
 
